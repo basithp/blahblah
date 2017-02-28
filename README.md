@@ -12,7 +12,6 @@ In the root folder run command
 *react-native run-android*
 
 To run from Android Studio, Import the android folder in root using Android studio and sync the gradle.
-[ensure that you are running js server. since it is a poc we didnot add as package]
 
 
 **Native App**
